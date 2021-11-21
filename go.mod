@@ -1,3 +1,3 @@
-module c2goasm
+module github.com/antmanler/c2goasm
 
 go 1.17
